@@ -23,5 +23,18 @@
     "eslint-plugin-react-refresh": "^0.4.20",
     "globals": "^16.2.0",
     "vite": "^7.0.0"
-  }
+  },
+  "description": "",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l1ngw4ng/shopping-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l1ngw4ng/shopping-app/issues"
+  },
+  "homepage": "https://github.com/l1ngw4ng/shopping-app#readme"
 }
