@@ -10,7 +10,7 @@ function WaveTitle({ text }) {
   const upDuration = groupsCount * upDelay + 100;
   const holdUpDuration = 100;
   const dropDuration = 500; // gör droppet längre och smoothare
-  const holdDownDuration = 2500;
+  const holdDownDuration = 3000;
 
   useEffect(() => {
     const cycle = () => {
