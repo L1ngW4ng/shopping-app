@@ -1,10 +1,13 @@
 import React from "react";
 import WaveTitle from "./WaveTitle";
+import AudioPlayer from "./AudioPlayer";
 import "./App.css";
 
 function App() {
   return (
     <div className="app-container">
+      <AudioPlayer />
+
       <div className="sky"></div>
       <div className="sun"></div>
 
